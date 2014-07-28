@@ -8,4 +8,4 @@ The Universtiy is trying to improve and increase their transportation services w
 The Project is currently in progress and will be updated timely.
 
 The WSUshuttle website created by a student of the University provides live information about the shuttle and its ETA
-[http://wsushuttle.com/](WSU-SHUTTLE)
+[http://www.wsushuttle.com/](WSU-SHUTTLE)
