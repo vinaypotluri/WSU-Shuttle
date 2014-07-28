@@ -9,3 +9,9 @@ The Project is currently in progress and will be updated timely.
 
 The WSUshuttle website created by a student of the University provides live information about the shuttle and its ETA
 http://www.wsushuttle.com
+
+
+**Language:** Java                                                                                
+**Environment:** Eclipse                                                                    
+**Platform:** Android                                                                           
+  
